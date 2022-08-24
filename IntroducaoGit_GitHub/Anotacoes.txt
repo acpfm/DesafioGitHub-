@@ -1,0 +1,2 @@
+--> Git Status: verifica status do diretório do git
+--> Git Bash: terminal estendido para otimizar o uso do git
