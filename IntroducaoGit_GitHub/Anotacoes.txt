@@ -1,2 +1,5 @@
 --> Git Status: verifica status do diretório do git
 --> Git Bash: terminal estendido para otimizar o uso do git
+--> Git add . : é o comando para adicionar todos os arquivos que estiverem dentro da estrutura onde digitei o comando
+--> Git commit -m "comentário": comando para marcar/gravar as alterações feitas nos arquivos contidos no diretório.
+--> Git push origin main: manda efetivamente as alterações dos arquivo para o diretório do git.
